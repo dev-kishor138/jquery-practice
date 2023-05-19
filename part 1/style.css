@@ -1,0 +1,112 @@
+.btn{
+    width: 500px;
+    background: #000;
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+.lorem{
+    width: 500px;
+    background: #888;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-top: 20px;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin-top: 20px;
+}
+
+.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin-top: 20px;
+}
+
+.box4 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box5 {
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.box6{
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.box7 {
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.box8 {
+    height: 500px;
+    width: 500px;
+    background-color: orange;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.box9 {
+    height: 200px;
+    width: 200px;
+    background-color: olive;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.box10 {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.box11 {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.box12 {
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    margin-top: 20px;
+    position: relative;
+    margin-bottom: 100px;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+button {
+    font-size: 30px;
+    padding: 0 10px;
+}
+.btn{
+    width: 600px;
+    background: brown;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.lorem {
+    width: 600px;
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    display: none;
+    overflow: hidden;
+}

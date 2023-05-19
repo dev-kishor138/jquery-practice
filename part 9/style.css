@@ -1,0 +1,22 @@
+.me {
+    font-size: 40px;
+}
+.you {
+    color: blue;
+}
+
+.he {
+    background-color: darkmagenta;
+}
+
+.box1 {
+    height: 500px;
+    width: 500px;
+    background-color: burlywood;
+}
+
+.box2 {
+    height: 500px;
+    width: 500px;
+    background-color: olivedrab;
+}
